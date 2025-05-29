@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MUK4oBhu25w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\desen\\workspace\\api-pix\\PixIntegration_main\\PixIntegration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\desen\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
